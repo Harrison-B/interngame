@@ -22,3 +22,23 @@ You are an intern with a crazy boss, and have to accomplish every ridiculous tas
 
 
 Private game design doc: https://docs.google.com/document/d/1FlUn-WasHBzpzjl_xQi77KlqEnww07-iCySchJTiJg0/edit?usp=sharing
+
+# Github Steps 
+
+Are we on same Unity version ?????
+
+## Initial Setup: 
+Git clone  https://github.com/Harrison-B/interngame 
+
+Git checkout -b branchName
+(creates branch and opens it)
+
+## Every update
+Git add .
+Git commit -m “message”
+git push --set-upstream origin testBranch
+
+Switch to browser and pull up github
+
+- Should see compare & pull request
+- Write comment on it
