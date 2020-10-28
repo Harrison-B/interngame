@@ -36,6 +36,8 @@ Are we on same Unity version ?????
 ## Every update
 
 ### Before you start making changes
+- git checkout origin
+- git pull
 - git checkout -b branchName
 (Make a new branch each time - try to name it with main purpose)
 
