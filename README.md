@@ -34,15 +34,19 @@ Git checkout -b branchName
 (creates branch and opens it)
 
 ## Every update
-Git add .
-Git commit -m “message”
-### First update
-git push --set-upstream origin testBranch
-### Every time
-git push
+
+### Before you start making changes
+git checkout -b branchName
+(Make a new branch each time - try to name it with main purpose)
+
+### Once changes are complete
+git add .
+git commit -m “message”
+git push --set-upstream origin branchName
 
 Switch to browser and pull up github
 
 - Should see create pull request
 - Write comment on it explaining what changes made + if it is working
-- Request a review from Cassidy 
+- Resolve any merge conflicts 
+- If it is working: merge. Or - Request a review from Cassidy 
