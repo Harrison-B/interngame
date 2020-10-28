@@ -30,9 +30,6 @@ Are we on same Unity version ?????
 ## Initial Setup: 
 - Git clone  https://github.com/Harrison-B/interngame 
 
-- Git checkout -b branchName
-(creates branch and opens it)
-
 ## Every update
 
 ### Before you start making changes
