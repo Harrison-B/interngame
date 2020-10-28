@@ -28,21 +28,21 @@ Private game design doc: https://docs.google.com/document/d/1FlUn-WasHBzpzjl_xQi
 Are we on same Unity version ?????
 
 ## Initial Setup: 
-Git clone  https://github.com/Harrison-B/interngame 
+- Git clone  https://github.com/Harrison-B/interngame 
 
-Git checkout -b branchName
+- Git checkout -b branchName
 (creates branch and opens it)
 
 ## Every update
 
 ### Before you start making changes
-git checkout -b branchName
+- git checkout -b branchName
 (Make a new branch each time - try to name it with main purpose)
 
 ### Once changes are complete
-git add .
-git commit -m “message”
-git push --set-upstream origin branchName
+- git add .
+- git commit -m “message”
+- git push --set-upstream origin branchName
 
 Switch to browser and pull up github
 
