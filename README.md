@@ -36,9 +36,13 @@ Git checkout -b branchName
 ## Every update
 Git add .
 Git commit -m “message”
+### First update
 git push --set-upstream origin testBranch
+### Every time
+git push
 
 Switch to browser and pull up github
 
-- Should see compare & pull request
-- Write comment on it
+- Should see create pull request
+- Write comment on it explaining what changes made + if it is working
+- Request a review from Cassidy 
