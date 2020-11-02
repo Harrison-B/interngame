@@ -42,6 +42,8 @@ Are we on same Unity version ?????
 - git add .
 - git commit -m “message”
 - git push --set-upstream origin branchName
+- git merge origin
+- git push origin branchname
 
 Switch to browser and pull up github
 
