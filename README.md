@@ -49,3 +49,5 @@ Switch to browser and pull up github
 - Write comment on it explaining what changes made + if it is working
 - Resolve any merge conflicts 
 - If it is working: merge. Or - Request a review from Cassidy 
+
+Second test
