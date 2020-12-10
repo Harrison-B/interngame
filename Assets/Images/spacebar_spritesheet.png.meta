@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 4068d474dc88cf941a353b4c1e426824
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3794673560334235759
+    second: spacebar_spritesheet_0
+  - first:
+      213: -4520286568122265092
+    second: spacebar_spritesheet_1
+  - first:
+      213: -707685269314436966
+    second: spacebar_spritesheet_2
+  - first:
+      213: 1176843199952033483
+    second: spacebar_spritesheet_3
+  - first:
+      213: -4879148133111224115
+    second: spacebar_spritesheet_4
+  - first:
+      213: -541732847635015980
+    second: spacebar_spritesheet_5
+  - first:
+      213: 7429919788700018664
+    second: spacebar_spritesheet_6
+  - first:
+      213: 3202659042229184513
+    second: spacebar_spritesheet_7
+  - first:
+      213: -8607293024081571156
+    second: spacebar_spritesheet_8
+  - first:
+      213: -5077430003531351359
+    second: spacebar_spritesheet_9
+  - first:
+      213: 700316946812369792
+    second: spacebar_spritesheet_10
+  - first:
+      213: 6021808648649685481
+    second: spacebar_spritesheet_11
+  - first:
+      213: 4807351512947619803
+    second: spacebar_spritesheet_12
+  - first:
+      213: 6598221117863049632
+    second: spacebar_spritesheet_13
+  - first:
+      213: -4188261989641169751
+    second: spacebar_spritesheet_14
+  - first:
+      213: -8001358247489623775
+    second: spacebar_spritesheet_15
+  - first:
+      213: -2480625431331487457
+    second: spacebar_spritesheet_16
+  - first:
+      213: -4357053902238322271
+    second: spacebar_spritesheet_17
+  - first:
+      213: 625641306268166817
+    second: spacebar_spritesheet_18
+  - first:
+      213: 4677466985977507624
+    second: spacebar_spritesheet_19
+  - first:
+      213: 5336563243294524005
+    second: spacebar_spritesheet_20
+  - first:
+      213: 8659519361428929465
+    second: spacebar_spritesheet_21
+  - first:
+      213: -6102362262305667275
+    second: spacebar_spritesheet_22
+  - first:
+      213: -1129021144000655788
+    second: spacebar_spritesheet_23
+  - first:
+      213: 7081822215494555325
+    second: spacebar_spritesheet_24
+  - first:
+      213: 8266575833948491137
+    second: spacebar_spritesheet_25
+  - first:
+      213: 2860124512768331353
+    second: spacebar_spritesheet_26
+  - first:
+      213: 2602631146045568820
+    second: spacebar_spritesheet_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spacebar_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19706bd708c965bc0800000000000000
+      internalID: -3794673560334235759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebar_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15a18d057b441c0800000000000000
+      internalID: -4520286568122265092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebar_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a908cbd3ffbcd26f0800000000000000
+      internalID: -707685269314436966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebar_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69979b7acf45010800000000000000
+      internalID: 1176843199952033483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3002040294252644b79ab7095175973
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

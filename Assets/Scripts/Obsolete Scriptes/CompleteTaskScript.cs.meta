@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd9c0c746840f3b4d82f41ec64109c55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TaskManager: {instanceID: 0}
+  - GameManager: {instanceID: 0}
+  - completeNotification: {fileID: 375822161653945171, guid: a40eb2f56d3ed0c449f8c15fed1fcc83, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

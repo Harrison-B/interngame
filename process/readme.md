@@ -1,5 +1,8 @@
 # Process Doc
 
+## Original Theme/Pitch: 
+You are an intern with a crazy boss, and have to accomplish every ridiculous task he asks you to do in the time limit or you’re fired! The only problem is the office environment changes, rooms move, doors disappear, some coworkers make life harder, and your tasks get increasingly ridiculous. The main part of the game is interacting with objects and NPCs and completing tasks/puzzles. 
+
 ## 10/28/2020
 Brainstorming:
 
