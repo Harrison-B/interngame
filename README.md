@@ -1,4 +1,4 @@
-# Title: Untitled Intern Game
+# Title: The Intern
 
 ## Team Members:
 Sarah MacDonald - Design, 3D art
