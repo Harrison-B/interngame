@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Breakable
+  - Broken
+  - TaskManager
+  - NPC
+  - DontDestroy
+  - Active
+  - InActive
+  - scoretext
+  - highscoremanager
+  - highscoretext
+  - firedtext
   layers:
   - Default
   - TransparentFX
